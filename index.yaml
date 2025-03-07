@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  mssql:
+  - apiVersion: v2
+    appVersion: 2019-CU16-GDR1-ubuntu-20.04
+    created: "2025-03-06T23:01:25.211058731-03:00"
+    description: Microsoft SQL Server 2019 Express
+    digest: c6750b391a2371743d994ae29739969e9d1ce9494dc35b76c5ca76c712bd08c4
+    icon: https://github.com/licenseware/helm-charts/raw/main/static/png/mssql.png
+    name: mssql
+    type: application
+    urls:
+    - https://renatovieiradesouza.github.io/mssql-helm-chart/mssql-0.1.2.tgz
+    version: 0.1.2
+generated: "2025-03-06T23:01:25.209868968-03:00"
