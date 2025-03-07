@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: 2019-CU16-GDR1-ubuntu-20.04
+description: Microsoft SQL Server 2019 Express
+icon: https://github.com/licenseware/helm-charts/raw/main/static/png/mssql.png
+name: mssql
+type: application
+version: 0.1.2
