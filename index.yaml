@@ -3,13 +3,24 @@ entries:
   mssql:
   - apiVersion: v2
     appVersion: 2019-CU16-GDR1-ubuntu-20.04
-    created: "2025-03-06T23:01:25.211058731-03:00"
+    created: "2025-03-06T23:05:43.369476678-03:00"
     description: Microsoft SQL Server 2019 Express
-    digest: c6750b391a2371743d994ae29739969e9d1ce9494dc35b76c5ca76c712bd08c4
-    icon: https://github.com/licenseware/helm-charts/raw/main/static/png/mssql.png
+    digest: 1f06d9b76cddbbed3eb9f1ca07534ba661375bf0347eeb8888ad019ecf3f8a96
+    icon: https://raw.githubusercontent.com/renatovieiradesouza/mssql-helm-chart/refs/heads/main/mssql.png
+    name: mssql
+    type: application
+    urls:
+    - https://renatovieiradesouza.github.io/mssql-helm-chart/mssql-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 2019-CU16-GDR1-ubuntu-20.04
+    created: "2025-03-06T23:05:43.368055488-03:00"
+    description: Microsoft SQL Server 2019 Express
+    digest: 161c542ea1c10c4f8afd1bb8df9713dfab32ee0f0cc067ff21bee66f265159a4
+    icon: https://raw.githubusercontent.com/renatovieiradesouza/mssql-helm-chart/refs/heads/main/mssql.png
     name: mssql
     type: application
     urls:
     - https://renatovieiradesouza.github.io/mssql-helm-chart/mssql-0.1.2.tgz
     version: 0.1.2
-generated: "2025-03-06T23:01:25.209868968-03:00"
+generated: "2025-03-06T23:05:43.366841594-03:00"
