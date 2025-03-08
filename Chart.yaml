@@ -4,4 +4,4 @@ description: Microsoft SQL Server 2019 Express
 icon: https://raw.githubusercontent.com/renatovieiradesouza/mssql-helm-chart/refs/heads/main/mssql.png
 name: mssql
 type: application
-version: 0.1.3
+version: 0.1.4
